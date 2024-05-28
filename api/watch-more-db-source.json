@@ -1,0 +1,93 @@
+{
+  "Movies": [
+    {
+      "movie_name": "John Wick",
+      "genre": "Action",
+      "year": 2014,
+      "country": "USA",
+      "language": "English",
+      "id": 1
+    },
+    {
+      "movie_name": "Pulp Fiction",
+      "genre": "Crime, Thriller",
+      "year": 1999,
+      "country": "USA",
+      "language": "English",
+      "id": 2
+    },
+    {
+      "movie_name": "How to Train Your Dragon",
+      "genre": "Fantasy, Family, Adventure, Animation",
+      "year": 2010,
+      "country": "USA",
+      "language": "English",
+      "id": 3
+    }
+  ],
+  "Recommendations": [
+    {
+      "movie_id": 1,
+      "rec": "The Legend of the Drunken Master",
+      "genre": "Action",
+      "year": 2000,
+      "country": "Hong Kong",
+      "language": "Cantonese",
+      "id": 1
+    },
+    {
+      "movie_id": 1,
+      "rec": "Oldboy",
+      "genre": "Action",
+      "year": 2003,
+      "country": "South Korea",
+      "language": "Korean",
+      "id": 2
+    },
+    {
+      "movie_id": 2,
+      "rec": "Magnolia",
+      "genre": "Drama",
+      "year": 1999,
+      "country": "USA",
+      "language": "English",
+      "id": 3
+    },
+    {
+      "movie_id": 2,
+      "rec": "Amores Perros",
+      "genre": "Thriller, Drama",
+      "year": 2000,
+      "country": "Mexico",
+      "language": "Spanish",
+      "id": 4
+    },
+    {
+      "movie_id": 3,
+      "rec": "The Iron Giant",
+      "genre": "Science Fiction, Animation, Family, Adventure",
+      "year": 1999,
+      "country": "USA",
+      "language": "English",
+      "id": 5
+    },
+    {
+      "movie_id": 3,
+      "rec": "Treasure Planet",
+      "genre": "Science Fiction, Animation, Family, Adventure",
+      "year": 2002,
+      "country": "USA",
+      "language": "English",
+      "id": 6
+    },
+    {
+      "movie_id": 3,
+      "rec": "Children Who Chase Lost Voices",
+      "genre": "Fantasy, Animation, Family, Adventure, Drama",
+      "year": 2011,
+      "country": "Japan",
+      "language": "Japanese",
+      "id": 7
+    }
+  ]
+}
