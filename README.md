@@ -4,7 +4,7 @@ A service that recommends international or lesser known movies based on popular/
 
 ## Tutorial
 
-* How to add a movie
+* Add a movie for recommendation
 
 ## Reference
 
