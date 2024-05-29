@@ -1,3 +1,7 @@
 # Watch More Movies
 
-A mock API service created for the University of Washington's Professional Continuing Education specialization class in API Documentation.
+A service that recommends international or lesser known movies based on popular/recent movies.
+
+[Click here](docs/overview.md) for the overview.
+
+[Click here](docs/index.md) for the index.
