@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 Overview
 
 Welcome to Watch More Movies!
