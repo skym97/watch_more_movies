@@ -1,3 +1,5 @@
+# Watch More Movies
+
 A service that recommends international or lesser known movies based on popular/recent movies.
 
 ## Quickstart
