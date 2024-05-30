@@ -4,7 +4,11 @@ layout: page
 
 # Watch More Movies
 
-A service that recommends international or lesser known movies based on popular/recent movies.
+Watch More Movies provides a cloud-hosted database where users can receive or recommend international or lesser known movie recommendations based off a popular/recent movie of their choice.
+
+## Overview
+
+Learn more about this service by reading the [overview](docs/overview.md).
 
 ## Quickstart
 
