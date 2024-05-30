@@ -12,13 +12,15 @@ A service that recommends international or lesser known movies based on popular/
 
 * Add a movie for recommendation
 
+* Add a recommendation for a movie
+
 * Get recommendations by genre
 
 * Get recommendations by language
 
 * Get recommendations by release year
 
-## Reference
+## API Reference
 
 * Movies
 
