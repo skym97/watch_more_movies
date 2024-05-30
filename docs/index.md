@@ -8,7 +8,7 @@ Watch More Movies provides a cloud-hosted database where users can receive or re
 
 ## Overview
 
-Learn more about this service by reading the [overview](docs/overview.md).
+Learn more about this service by reading the [overview](overview.md).
 
 ## Quickstart
 
