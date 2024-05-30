@@ -32,4 +32,4 @@ Learn more about this service by reading the [overview](overview.md).
 
 ### Need help tracking?
 
-Check out Visual Chronicle, a service that helps you track all the movies you've watched across different platforms and mediums.
+Check out [Visual Chronicle](https://conjaytech.github.io/visual-chronicle/), a service that helps you track all the movies you've watched across different platforms and mediums.
