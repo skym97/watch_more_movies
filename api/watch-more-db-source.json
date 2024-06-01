@@ -2,7 +2,7 @@
   "Movies": [
     {
       "movie_name": "John Wick",
-      "genre": "Action",
+      "genre": "action",
       "year": 2014,
       "country": "USA",
       "language": "English",
@@ -10,7 +10,7 @@
     },
     {
       "movie_name": "Pulp Fiction",
-      "genre": "Crime, Thriller",
+      "genre": "thriller",
       "year": 1999,
       "country": "USA",
       "language": "English",
@@ -18,7 +18,7 @@
     },
     {
       "movie_name": "How to Train Your Dragon",
-      "genre": "Fantasy, Family, Adventure, Animation",
+      "genre": "animation",
       "year": 2010,
       "country": "USA",
       "language": "English",
@@ -29,7 +29,7 @@
     {
       "movie_id": 1,
       "rec": "The Legend of the Drunken Master",
-      "genre": "Action",
+      "genre": "action",
       "year": 2000,
       "country": "Hong Kong",
       "language": "Cantonese",
@@ -38,7 +38,7 @@
     {
       "movie_id": 1,
       "rec": "Oldboy",
-      "genre": "Action",
+      "genre": "action",
       "year": 2003,
       "country": "South Korea",
       "language": "Korean",
@@ -47,7 +47,7 @@
     {
       "movie_id": 2,
       "rec": "Magnolia",
-      "genre": "Drama",
+      "genre": "drama",
       "year": 1999,
       "country": "USA",
       "language": "English",
@@ -56,7 +56,7 @@
     {
       "movie_id": 2,
       "rec": "Amores Perros",
-      "genre": "Thriller, Drama",
+      "genre": "thriller",
       "year": 2000,
       "country": "Mexico",
       "language": "Spanish",
@@ -65,7 +65,7 @@
     {
       "movie_id": 3,
       "rec": "The Iron Giant",
-      "genre": "Science Fiction, Animation, Family, Adventure",
+      "genre": "animation",
       "year": 1999,
       "country": "USA",
       "language": "English",
@@ -74,7 +74,7 @@
     {
       "movie_id": 3,
       "rec": "Treasure Planet",
-      "genre": "Science Fiction, Animation, Family, Adventure",
+      "genre": "animation",
       "year": 2002,
       "country": "USA",
       "language": "English",
@@ -83,7 +83,7 @@
     {
       "movie_id": 3,
       "rec": "Children Who Chase Lost Voices",
-      "genre": "Fantasy, Animation, Family, Adventure, Drama",
+      "genre": "animation",
       "year": 2011,
       "country": "Japan",
       "language": "Japanese",
