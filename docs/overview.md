@@ -14,7 +14,7 @@ This overview provides key features and quick links for this service.
 
 ## Key Features
 
-* Recommendations
+* Recommendations: Add or find a movie to see recommendation.
 
 ## Quick Links
 
