@@ -18,8 +18,8 @@ This overview provides key features and quick links for this service.
 
 ## Quick Links
 
-* Quickstart
+* [Quickstart](index.md#quickstart)
 
-* Tutorial
+* [Tutorial](index.md#tutorial)
 
 * [API Reference](index.md#api-reference)
