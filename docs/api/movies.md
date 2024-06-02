@@ -32,4 +32,4 @@ Sample `movies` resource
 | `genre` | string | The movie's genre |
 | `year` | number | The year the movie was released |
 | `language` | string | The language the movie is in |
-| `id` | number | An identifying number for a movie to pair with recommendations |
+| `id` | number | Unique record ID for the movie |
