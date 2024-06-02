@@ -4,13 +4,15 @@ layout: page
 
 # Watch More Movies
 
-Watch More Movies provides a cloud-hosted database where users can receive or recommend international or lesser known movie recommendations based off a popular/recent movie of their choice.
+Watch More Movies provides a cloud-hosted database where users can receive or recommend international or lesser known movies based off a popular/recent movie of their choice.
 
 ## Overview
 
 Learn more about this service by reading the [overview](overview.md).
 
 ## Quickstart
+
+Before you get started, make sure that you have read through the quickstart so that you have everything that you need.
 
 ## Tutorial
 
@@ -28,7 +30,7 @@ Learn more about this service by reading the [overview](overview.md).
 
 * Movies
 
-* Recommendation
+* Recommendations
 
 ### Need help tracking?
 
