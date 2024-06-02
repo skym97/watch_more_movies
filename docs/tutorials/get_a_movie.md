@@ -11,7 +11,7 @@ This operation allows you to access specific movie details by querying with the 
 
 ## Step-by-Step Guide
 
-### 1. Making a GET Request Using Postman
+### Making a GET Request Using Postman
 
 Step 1. **Open Postman**: Launch the Postman application.
 
@@ -23,7 +23,7 @@ Step 4. **Enter URL**: Type in the URL for the movie you want to retrieve. For e
 
 Step 5. **Send Request**: Click on the "Send" button.
 
-### 2. Viewing the Response
+### Viewing the Response
 
 If the movie with the specified name exists, you will see a response similar to the following:
 
@@ -38,7 +38,7 @@ If the movie with the specified name exists, you will see a response similar to 
 }
 ```
 
-### 3. Error Handling
+### Error Handling
 
 If the movie does not exist or hasn't been added in, you will get a 404 Not Found response.
 
