@@ -16,7 +16,7 @@ Before you get started, make sure that you have read through the quickstart so t
 
 ## Tutorial
 
-* Get (or find) a movie
+* [Get (or find) a movie](tutorials/get_a_movie.md)
 
 * Add a movie for recommendation
 
