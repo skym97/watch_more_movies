@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Tutorial: GET (or find) a movie 
+# GET (or find) a movie 
 
 ## Introduction
 
