@@ -34,6 +34,6 @@ Before you get started, make sure that you have read through the quickstart so t
 
 * [Recommendations](api/recommendations.md)
 
-### Need help tracking?
+### Need help tracking what you watch?
 
 Check out [Visual Chronicle](https://conjaytech.github.io/visual-chronicle/), a service that helps you track all the movies you've watched across different platforms and mediums.
