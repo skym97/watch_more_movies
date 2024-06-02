@@ -24,9 +24,9 @@ Before you get started, make sure that you have read through the quickstart so t
 
 * Get recommendations by genre
 
-* Get recommendations by language
+* Get recommendations by country
 
-* Get recommendations by release year
+* Get recommendations by language
 
 ## API Reference
 
