@@ -22,4 +22,4 @@ This overview provides key features and quick links for this service.
 
 * Tutorial
 
-* API Reference
+* [API Reference](index.md#api-reference)
