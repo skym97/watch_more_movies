@@ -16,7 +16,7 @@ Before you get started, make sure that you have read through the quickstart so t
 
 ## Tutorial
 
-* Find a movie
+* Get (or find) a movie
 
 * Add a movie for recommendation
 
