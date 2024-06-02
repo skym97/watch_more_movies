@@ -14,9 +14,13 @@ This operation allows you to access specific movie details by querying with the 
 ### 1. Making a GET Request Using Postman
 
 Step 1. **Open Postman**: Launch the Postman application.
+
 Step 2. **Create a New Request**: Click on "New" and then select "Request".
+
 Step 3. **Set Request Type**: Choose `GET` from the dropdown menu.
+
 Step 4. **Enter URL**: Type in the URL for the movie you want to retrieve. For example, to get the movie named "John Wick", enter `http://localhost:3000/movies/name/John%20Wick`. Note that spaces should be encoded as `%20`.
+
 Step 5. **Send Request**: Click on the "Send" button.
 
 ### 2. Viewing the Response
