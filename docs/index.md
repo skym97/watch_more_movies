@@ -28,7 +28,7 @@ Before you get started, make sure that you have read through the quickstart so t
 
 ## API Reference
 
-* Movies
+* [Movies](docs/api/movies)
 
 * Recommendations
 
