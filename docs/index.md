@@ -30,7 +30,7 @@ Before you get started, make sure that you have read through the quickstart so t
 
 * [Movies](api/movies)
 
-* Recommendations
+* [Recommendations](api/recommendations.md)
 
 ### Need help tracking?
 
