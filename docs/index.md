@@ -30,7 +30,7 @@ Before you get started, make sure that you have read through the quickstart so t
 
 ## API Reference
 
-* [Movies](api/movies)
+* [Movies](api/movies.md)
 
 * [Recommendations](api/recommendations.md)
 
