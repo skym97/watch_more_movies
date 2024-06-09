@@ -1,55 +1,61 @@
-# Add a recommendation for a movie
+# Add a Recommendation to the Database
 
-## Overview
+## Introduction
 
-This API allows you to add a new recommendation to the database.
+In this tutorial, you will learn how to add a recommendation for the movie "Broker" to the Recommendations database using a POST request. This operation allows you to suggest a movie recommendation based on an existing movie in the database.
 
-## Endpoints
+## Step-by-Step Guide
 
-### POST /recommendations
+### Making a POST Request Using Postman
 
-Add a new recommendation to the database.
+**Step 1.** Open Postman: Launch the Postman application.
 
-#### Request Body
-The request body should be a JSON object with the following fields:
+**Step 2.** Create a New Request: Click on "New" and then select "Request".
 
-- `movie_id` (integer): The ID of the movie for which you're adding a recommendation.
-- `rec` (string): The title of the recommended movie.
-- `genre` (string): The genre of the recommended movie.
-- `year` (integer): The release year of the recommended movie.
-- `country` (string): The country where the recommended movie was produced.
-- `language` (string): The language of the recommended movie.
-- `id` (integer): The unique ID of the recommendation.
+**Step 3.** Set Request Type: Choose POST from the dropdown menu.
 
-#### Example Request
+**Step 4.** Enter URL: Type in the URL for adding a recommendation. For example, if your API endpoint for adding recommendations is http://localhost:3000/recommendations, use that URL.
+
+**Step 5.** Set Request Body: In the request body section, select the JSON option.
 
 ```json
 {
-  "movie_id": 1,
+  "movie_id": 4,
   "rec": "Broker",
-  "genre": "Drama",
+  "genre": "drama",
   "year": 2022,
   "country": "South Korea",
   "language": "Korean",
-  "id": 4
+  "id": 8
 }
 ```
 
-Response
+**Step 6.** Send Request: Click on the "Send" button.
 
-The response will be a JSON object confirming the addition of the recommendation with a success message and the details of the added recommendation.
+Viewing the Response
 
-```json
+If the recommendation is successfully added to the database, you will receive a response confirming the addition with the details of the added recommendation.
+
 {
   "message": "Recommendation added successfully.",
   "recommendation": {
-    "movie_id": 1,
+    "movie_id": 4,
     "rec": "Broker",
-    "genre": "Drama",
+    "genre": "drama",
     "year": 2022,
     "country": "South Korea",
     "language": "Korean",
-    "id": 4
+    "id": 8
   }
 }
+
+### Error Handling
+
+If there are any errors during the process, such as missing or invalid data, you will receive an error response indicating the issue.
+
+```json
+{
+  "error": "Failed to add recommendation. Genre must be provided and should be a string."
+}
 ```
+
