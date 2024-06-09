@@ -75,7 +75,6 @@ To test your development system, follow these steps:
       "id": 3
     }
     ]
-        ...
     ```
 
 If you don't see the list of movies, or receive an error in any step
