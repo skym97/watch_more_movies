@@ -16,7 +16,18 @@ In this tutorial, you will learn how to add a recommendation for the movie "Brok
 
 **Step 4.** Enter URL: Type in the URL for adding a recommendation. For example, if your API endpoint for adding recommendations is http://localhost:3000/recommendations, use that URL.
 
-**Step 5.** Set Request Body: In the request body section, select the JSON option.
+**Step 5.** Set Request Body: In the request body section, select the JSON option. Then, provide the required information needed for the recommendation.
+
+For recommendations, ensure you include the following details in the request body:
+
+    Movie ID: The unique identifier of the movie for which you are adding a recommendation.
+    Recommendation: The name of the recommended movie.
+    Genre: The genre of the recommended movie.
+    Year: The release year of the recommended movie.
+    Country: The country of origin of the recommended movie.
+    Language: The language(s) spoken in the recommended movie.
+
+See an example below for guidance.
 
 ```json
 {
