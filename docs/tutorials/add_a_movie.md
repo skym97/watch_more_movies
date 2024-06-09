@@ -1,26 +1,22 @@
-# Add a movie for recommendation
+# Add a Movie for Recommendation
 
-## Overview
+## Introduction
 
-This API allows you to add a new movie to the database.
+In this tutorial, you will learn how to add the movie "Inception" to the Movies database using a POST request. This operation allows you to insert a new movie with its details into the database.
 
-## Endpoints
+## Step-by-Step Guide
 
-### POST /movies
+### Making a POST Request Using Postman
 
-Add a new movie to the database.
+**Step 1.** Open Postman: Launch the Postman application.
 
-#### Request Body
-The request body should be a JSON object with the following fields:
+**Step 2.** Create a New Request: Click on "New" and then select "Request".
 
-- `movie_name` (string): The name of the movie.
-- `genre` (string): The genre of the movie.
-- `year` (integer): The release year of the movie.
-- `country` (string): The country where the movie was produced.
-- `language` (string): The language of the movie.
-- `id` (integer): The unique ID of the movie.
+**Step 3.** Set Request Type: Choose POST from the dropdown menu.
 
-#### Example Request
+**Step 4.** Enter URL: Type in the URL for adding a movie. For example, if your API endpoint for adding movies is http://localhost:3000/movies, use that URL.
+
+**Step 5.** Set Request Body: In the request body section, select the JSON option.
 
 ```json
 {
@@ -33,9 +29,11 @@ The request body should be a JSON object with the following fields:
 }
 ```
 
-Response
+**Step 6.** Send Request: Click on the "Send" button.
 
-The response will be a JSON object confirming the addition of the movie with a success message and the details of the added movie.
+Viewing the Response
+
+If the movie is successfully added to the database, you will receive a response confirming the addition with the details of the added movie.
 
 ```json
 {
@@ -50,3 +48,8 @@ The response will be a JSON object confirming the addition of the movie with a s
   }
 }
 ```
+
+### Error Handling
+
+If there are any errors during the process, such as missing or invalid data, you will receive an error response indicating the issue.
+
