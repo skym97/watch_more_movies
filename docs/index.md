@@ -14,6 +14,8 @@ Learn more about this service by reading the [overview](overview.md).
 
 Before you get started, make sure that you have read through the quickstart so that you have everything that you need.
 
+* [Before you start](quickstart/before_you_start.md)
+
 ## Tutorial
 
 * [Get (or find) a movie](tutorials/get_a_movie.md)
