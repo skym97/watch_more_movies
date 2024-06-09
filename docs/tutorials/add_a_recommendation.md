@@ -20,12 +20,14 @@ In this tutorial, you will learn how to add a recommendation for the movie "Brok
 
 For recommendations, ensure you include the following details in the request body:
 
-    Movie ID: The unique identifier of the movie for which you are adding a recommendation.
-    Recommendation: The name of the recommended movie.
-    Genre: The genre of the recommended movie.
-    Year: The release year of the recommended movie.
-    Country: The country of origin of the recommended movie.
-    Language: The language(s) spoken in the recommended movie.
+    movie_id: The unique identifier of the movie for which you are adding a recommendation.
+    rec: The name of the recommended movie.
+    genre: The genre of the recommended movie.
+    year: The release year of the recommended movie.
+    country: The country of origin of the recommended movie.
+    language: The language(s) spoken in the recommended movie.
+
+Note: The 'id' for the recommendation will be generated automatically by the server upon insertion into the database. Ensure to provide the correct movie 'id' for the movie you're recommending.
 
 See an example below for guidance.
 
