@@ -63,3 +63,8 @@ If the movie is successfully added to the database, you will receive a response 
 
 If there are any errors during the process, such as missing or invalid data, you will receive an error response indicating the issue.
 
+```json
+{
+  "error": "Failed to add the movie. Please ensure all required fields are provided and try again."
+}
+```
