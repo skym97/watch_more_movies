@@ -27,7 +27,9 @@ For recommendations, ensure you include the following details in the request bod
     country: The country of origin of the recommended movie.
     language: The language(s) spoken in the recommended movie.
 
-Note: The `id` for the recommendation will be generated automatically by the server upon insertion into the database. Ensure to provide the correct movie `id` for the movie you're recommending.
+Note 1: The `id` for the recommendation will be generated automatically by the server upon insertion into the database. Ensure to provide the correct movie `id` for the movie you're recommending.
+
+Note 2: [Click here](tutorials/get_a_movie.md) to check if the movie is in the database before adding a recommendation and/or to find their `movie_id`.
 
 See an example below for guidance.
 
