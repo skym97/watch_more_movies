@@ -20,15 +20,17 @@ Before you get started, make sure that you have read through the quickstart so t
 
 * [Get (or find) a movie](tutorials/get_a_movie.md)
 
-* Add a movie for recommendation
+* [Get (or find) a recommendation](tutorials/get_a_recommendation.md)
 
-* Add a recommendation for a movie
+* [Add a movie for recommendation](tutorials/add_a_movie.md)
 
-* Get recommendations by genre
+* [Add a recommendation for a movie](tutorials/add_a_recommendation.md)
 
-* Get recommendations by country
+* [Get recommendations by genre](tutorials/get_recommendations_by_genre.md)
 
-* Get recommendations by language
+* [Get recommendations by country](tutorials/get_recommendations_by_country.md)
+
+* [Get recommendations by language](tutorials/get_recommendations_by_language.md)
 
 ## API Reference
 
