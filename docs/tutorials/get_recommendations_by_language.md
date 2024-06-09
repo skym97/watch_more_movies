@@ -34,7 +34,7 @@ If there are recommendations available for the specified language, you will rece
     "id": 5
   },
   {
-    "movie_id": 6,
+    "movie_id": 3,
     "rec": "Treasure Planet",
     "genre": "animation",
     "year": 2002,
