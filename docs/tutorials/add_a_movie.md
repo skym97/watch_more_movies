@@ -16,7 +16,17 @@ In this tutorial, you will learn how to add the movie "Inception" to the Movies 
 
 **Step 4.** Enter URL: Type in the URL for adding a movie. For example, if your API endpoint for adding movies is http://localhost:3000/movies, use that URL.
 
-**Step 5.** Set Request Body: In the request body section, select the JSON option.
+**Step 5.** Set Request Body: In the request body section, select the JSON option. Then, provide the required information needed for adding a movie.
+
+For adding a movie, ensure you include the following details in the request body:
+
+    movie_name: The name of the movie.
+    genre: The genre of the movie.
+    year: The release year of the movie.
+    country: The country of origin of the movie.
+    language: The language(s) spoken in the movie.
+
+Note: The ID for the movie will be generated automatically by the server upon insertion into the database.
 
 ```json
 {
