@@ -38,7 +38,6 @@ Sample `movies` resource
 
 `user` resource that supports these operations.
 
-
 ### READ (GET)
 
 * [Get a movie](tutorials/get_a_movid.md)
