@@ -50,5 +50,6 @@ If you try to get a movie that does not exist (e.g., http://localhost:3000/movie
   "error": "Recommendation not found"
 }
 ```
+### Related Information
 
-To add a recommendation, refer to the [add a recommendation tutorial](add hyperlink here). 
+To add a recommendation, refer to the [add a recommendation tutorial](tutorials/get_a_recommendation.md). 

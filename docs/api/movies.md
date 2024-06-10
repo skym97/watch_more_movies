@@ -33,3 +33,16 @@ Sample `movies` resource
 | `year` | number | The year the movie was released |
 | `language` | string | The language the movie is in |
 | `id` | number | Unique record ID for the movie |
+
+## Operations
+
+`user` resource that supports these operations.
+
+### READ (GET)
+
+* [Get (or find) a movie](tutorials/get_a_movid.md)
+
+### CREATE (POST)
+
+* [Add a movie](tutorials/add_a_movie.md)
+

@@ -50,5 +50,7 @@ If you try to get a movie that does not exist (e.g., http://localhost:3000/movie
 }
 ```
 
-To add a movie, refer to the [add a movie tutorial](add hyperlink here). 
+### Related Information
+
+To add a movie, refer to the [add a movie tutorial](docs/tutorials/add_a_movie.md). 
 
