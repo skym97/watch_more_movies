@@ -16,7 +16,7 @@ Before you get started, make sure that you have read through the quickstart so t
 
 * [Before you start](quickstart/before_you_start.md)
 
-## Tutorial
+## Tutorials
 
 * [Get (or find) a movie](tutorials/get_a_movie.md)
 
