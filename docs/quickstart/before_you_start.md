@@ -27,13 +27,13 @@ long-term support (LTS version of the operating system).
     * A current version of [json-server](https://www.npmjs.com/package/json-server)
     * A current copy of the database file. You can get this by syncing your fork.
     * **TIP**: If you're using a fork of the repo, create a working branch in which to do your tutorials. Create a new branch for each tutorial to prevent a mistake in one from affecting your work in another.
-    * The [Postman desktop app](https://www.postman.com/downloads/). Because you run the **Visual Chronicle service** on your development system with an `http://localhost` hostname, the web-version of Postman can't perform the exercises.
+    * The [Postman desktop app](https://www.postman.com/downloads/). Because you run the **Watch More Movies service** on your development system with an `http://localhost` hostname, the web-version of Postman can't perform the exercises.
 
 ## Test your development system
 
 To test your development system, follow these steps:
 
-1. Create and checkout a test branch of your fork of the To-Do-service repo. Your `GitHub repo workspace` is the directory that contains your fork of the `visual chronicle` repo.
+1. Create and checkout a test branch of your fork of the To-Do-service repo. Your `GitHub repo workspace` is the directory that contains your fork of the `Watch More Movies` repo.
 
     ```shell
     cd <your GitHub repo workspace>
