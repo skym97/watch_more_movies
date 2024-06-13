@@ -2,11 +2,11 @@
 layout: page
 ---
 
-# GET (or find) a movie 
+# GET (or find) a Recommendation
 
 ## Introduction
 
-In this tutorial, you will learn how to retrieve a movie from the Movies database using a GET request based on the movie's name. 
+In this tutorial, you will learn how to retrieve a movie from the movies database using a GET request based on the movie's name. 
 This operation allows you to access specific movie details by querying with the movie's name.
 
 ## Step-by-Step Guide
