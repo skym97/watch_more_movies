@@ -47,7 +47,7 @@ Sample `recommendations` resource
 
 * [Get recommendations by genre](../tutorials/get_recommendations_by_genre.md)
 
-* [Get recommendations by country](../tutorails/get_recommendations_by_country.md)
+* [Get recommendations by country](../tutorials/get_recommendations_by_country.md)
 
 * [Get recommendations by language](../tutorials/get_recommendations_by_language.md)
 
