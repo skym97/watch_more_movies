@@ -42,7 +42,7 @@ To test your development system, follow these steps:
     cd to-do-service
     git checkout -b tutorial-test
     cd api
-    json-server -w to-do-db-source.json
+    json-server -w watch-more-db-source.json
     ```
 
     If your development system is installed correctly, you should see
