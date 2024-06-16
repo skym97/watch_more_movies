@@ -26,7 +26,7 @@ Make sure you've looked through the [before you start](.../quickstart/before_you
 
 **Step 4.** Set Request Type: Choose POST from the dropdown menu.
 
-**Step 5.** Enter URL: Type in the URL for adding a movie. For example, if your API endpoint for adding movies is 'http://localhost:3000/movies', use that URL.
+**Step 5.** Enter URL: Type in the URL for adding a movie. For example, if your API endpoint for adding movies is `http://localhost:3000/movies`, use that URL.
 
 **Step 6.** Set Request Body: In the request body section, select the JSON option. Then, provide the required information needed for adding a movie.
 
