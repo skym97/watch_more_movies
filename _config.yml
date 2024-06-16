@@ -1,1 +1,5 @@
-theme: 
+theme: jekflix
+markdown: kramdown
+kramdown:
+  input: GFM
+
