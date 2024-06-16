@@ -1,4 +1,8 @@
-# GET Recommendations by Genre
+---
+layout: page
+---
+
+# Get Recommendations by Genre
 
 ## Introduction
 
