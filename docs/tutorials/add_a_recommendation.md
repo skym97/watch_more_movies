@@ -63,7 +63,7 @@ See an example below for guidance.
 
 **Step 7.** Send Request: Click on the "Send" button.
 
-Viewing the Response
+### Viewing the Response
 
 If the recommendation is successfully added to the database, you will receive a response confirming the addition with the details of the added recommendation.
 
