@@ -8,7 +8,7 @@ The Watch More Movies service/API provides a cloud-hosted database where users c
 
 ## Overview
 
-Learn more about this service by clicking on the hyperlink below.
+To learn more the service and its functionalities, refer to the `Overview`.
 
 * [Overview](overview.md)
 
