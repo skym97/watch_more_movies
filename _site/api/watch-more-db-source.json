@@ -1,0 +1,93 @@
+{
+  "Movies": [
+    {
+      "movie_name": "John Wick",
+      "genre": "action",
+      "year": 2014,
+      "country": "USA",
+      "language": "English",
+      "id": 1
+    },
+    {
+      "movie_name": "Pulp Fiction",
+      "genre": "thriller",
+      "year": 1999,
+      "country": "USA",
+      "language": "English",
+      "id": 2
+    },
+    {
+      "movie_name": "How to Train Your Dragon",
+      "genre": "animation",
+      "year": 2010,
+      "country": "USA",
+      "language": "English",
+      "id": 3
+    }
+  ],
+  "Recommendations": [
+    {
+      "movie_id": 1,
+      "rec": "The Legend of the Drunken Master",
+      "genre": "action",
+      "year": 2000,
+      "country": "Hong Kong",
+      "language": "Cantonese",
+      "id": 1
+    },
+    {
+      "movie_id": 1,
+      "rec": "Oldboy",
+      "genre": "action",
+      "year": 2003,
+      "country": "South Korea",
+      "language": "Korean",
+      "id": 2
+    },
+    {
+      "movie_id": 2,
+      "rec": "Magnolia",
+      "genre": "drama",
+      "year": 1999,
+      "country": "USA",
+      "language": "English",
+      "id": 3
+    },
+    {
+      "movie_id": 2,
+      "rec": "Amores Perros",
+      "genre": "thriller",
+      "year": 2000,
+      "country": "Mexico",
+      "language": "Spanish",
+      "id": 4
+    },
+    {
+      "movie_id": 3,
+      "rec": "The Iron Giant",
+      "genre": "animation",
+      "year": 1999,
+      "country": "USA",
+      "language": "English",
+      "id": 5
+    },
+    {
+      "movie_id": 3,
+      "rec": "Treasure Planet",
+      "genre": "animation",
+      "year": 2002,
+      "country": "USA",
+      "language": "English",
+      "id": 6
+    },
+    {
+      "movie_id": 3,
+      "rec": "Children Who Chase Lost Voices",
+      "genre": "animation",
+      "year": 2011,
+      "country": "Japan",
+      "language": "Japanese",
+      "id": 7
+    }
+  ]
+}
