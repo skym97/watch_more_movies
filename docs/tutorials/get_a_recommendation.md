@@ -64,4 +64,4 @@ If you try to get a movie that does not exist (e.g., http://localhost:3000/movie
 ```
 ### Related Information
 
-To add a recommendation, refer to the [add a recommendation tutorial](tutorials/get_a_recommendation.md). 
+To add a recommendation, refer to the [add a recommendation](tutorials/get_a_recommendation.md) tutorial. 
