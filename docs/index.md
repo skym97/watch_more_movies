@@ -4,17 +4,17 @@ layout: page
 
 # Watch More Movies
 
-Watch More Movies provides a cloud-hosted database where users can receive or recommend international or lesser known movies based off a popular/recent movie of their choice.
+The Watch More Movies service/API provides a cloud-hosted database where users can receive or recommend international or lesser-known movies based off a popular or recent movie of their choice.
 
 ## Overview
 
-Learn more about this service by clicking on the hyperlink below.
+To learn more the service and its functionalities, refer to the `Overview`.
 
 * [Overview](overview.md)
 
 ## Quickstart
 
-Before you get started, make sure that you have read through the quickstart (linked below) so that you have everything that you need.
+Before you get started, make sure you have your development system set up. Refer to the `Before you start` for more details.
 
 * [Before you start](quickstart/before_you_start.md)
 

@@ -43,14 +43,14 @@ Sample `recommendations` resource
 
 ### READ (GET)
 
-* [Get (or find) a recommendation](tutorials/get_a_recommendation)
+* [Get (or find) a recommendation](../tutorials/get_a_recommendation.md)
 
-* [Get recommendations by genre](tutorials/get_recommendations_by_genre)
+* [Get recommendations by genre](../tutorials/get_recommendations_by_genre.md)
 
-* [Get recommendations by country](tutorails/get_recommendations_by_country)
+* [Get recommendations by country](../tutorials/get_recommendations_by_country.md)
 
-* [Get recommendations by language](tutorials/get_recommendations_by_language)
+* [Get recommendations by language](../tutorials/get_recommendations_by_language.md)
 
 ### CREATE (POST)
 
-* [Add a recommendation](tutorials/add_a_recommendation.md)
+* [Add a recommendation](../tutorials/add_a_recommendation.md)

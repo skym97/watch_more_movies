@@ -1,22 +1,38 @@
-# GET Recommendations by Genre
+---
+layout: page
+---
+
+# Get Recommendations by Genre
 
 ## Introduction
 
 In this tutorial, you will learn how to retrieve recommendations from the Recommendations database based on the genre of the movie. This operation allows you to get a list of recommended movies filtered by a specific genre.
 
+## Before you start
+
+Make sure you've looked through the [before you start](../quickstart/before_you_start.md) page.
+
 ## Step-by-Step Guide
 
 ### Making a GET Request Using Postman
 
-**Step 1.** Open Postman: Launch the Postman application.
+**Step 1.** Start your local service if it's not running.
 
-**Step 2.** Create a New Request: Click on "New" and then select "Request".
+```shell
+    cd <your-github-workspace>/watch_more_movies/api
+    # Run the service and monitor its database file for updates
+    json-server watch-more-db-source.json
+```
 
-**Step 3.** Set Request Type: Choose GET from the dropdown menu.
+**Step 2.** Open Postman: Launch the Postman application.
 
-**Step 4.** Enter URL: Type in the URL for getting recommendations by genre. For example, if your API endpoint for getting recommendations by genre is http://localhost:3000/recommendations/genre/action, use that URL.
+**Step 3.** Create a New Request: Click on "New" and then select "Request".
 
-**Step 5.** Send Request: Click on the "Send" button.
+**Step 4.** Set Request Type: Choose GET from the dropdown menu.
+
+**Step 5.** Enter URL: Type in the URL for getting recommendations by genre. For example, if your API endpoint for getting recommendations by genre is http://localhost:3000/recommendations/genre/action, use that URL.
+
+**Step 6.** Send Request: Click on the "Send" button.
 
 ### Viewing the Response
 

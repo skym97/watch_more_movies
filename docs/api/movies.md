@@ -40,9 +40,9 @@ Sample `movies` resource
 
 ### READ (GET)
 
-* [Get (or find) a movie](tutorials/get_a_movie.md)
+* [Get (or find) a movie](../tutorials/get_a_movie.md)
 
 ### CREATE (POST)
 
-* [Add a movie](tutorials/add_a_movie.md)
+* [Add a movie](../tutorials/add_a_movie.md)
 
