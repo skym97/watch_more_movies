@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Add a Recommendation for a Movie
 
 ## Introduction
