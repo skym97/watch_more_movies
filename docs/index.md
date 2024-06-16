@@ -14,7 +14,7 @@ To learn more the service and its functionalities, refer to the `Overview`.
 
 ## Quickstart
 
-Before you get started, make sure that you have read through the quickstart (linked below) so that you have everything that you need.
+Before you get started, make sure you have your development system set up. Refer to the `Before you start` for more details.
 
 * [Before you start](quickstart/before_you_start.md)
 
