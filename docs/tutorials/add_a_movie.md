@@ -10,7 +10,7 @@ In this tutorial, you will learn how to add the movie "Inception" to the Movies 
 
 ## Before you start
 
-Make sure you've looked through the [before you start](docs/quickstart/before_you_start.md) page.
+Make sure you've looked through the [before you start](../quickstart/before_you_start.md) page.
 
 ## Step-by-Step Guide
 
