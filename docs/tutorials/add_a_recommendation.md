@@ -10,7 +10,7 @@ In this tutorial, you will learn how to add a recommendation for the movie "Brok
 
 ## Before you start
 
-Make sure you've looked through the [before you start](.../quickstart/before_you_start.md) page.
+Make sure you've looked through the [before you start](../quickstart/before_you_start.md) page.
 
 ## Step-by-Step Guide
 
