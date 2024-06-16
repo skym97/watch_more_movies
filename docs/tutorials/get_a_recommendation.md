@@ -11,7 +11,7 @@ This operation allows you to access specific movie details by querying with the 
 
 ## Before you start
 
-Make sure you've looked through the [before you start](.../quickstart/before_you_start.md) page.
+Make sure you've looked through the [before you start](../quickstart/before_you_start.md) page.
 
 ## Step-by-Step Guide
 
