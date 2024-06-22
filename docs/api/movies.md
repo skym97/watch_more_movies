@@ -1,6 +1,3 @@
----
-layout: page
----
 # `movies` resource
 
 Base endpoint:

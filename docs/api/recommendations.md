@@ -1,6 +1,3 @@
----
-layout: page
----
 # `recommendations` resource
 
 Base endpoint:

@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Get (or find) a Movie 
 
 ## Introduction

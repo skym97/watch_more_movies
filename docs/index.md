@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Watch More Movies
 
 The Watch More Movies service/API provides a cloud-hosted database where users can receive or recommend international or lesser-known movies based off a popular or recent movie of their choice.

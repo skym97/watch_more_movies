@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # MacOS installation guide
 
 These are the steps to install all of the prerequisites on MacOS.

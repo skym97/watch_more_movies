@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Get Recommendations by Language
 
 ## Introduction
