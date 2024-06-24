@@ -24,6 +24,7 @@ Sample `recommendations` resource
     }
 ```
 
+
 | Property name | Type | Description |
 | ------------- | ----------- | ----------- |
 | `movie_id` | number | Unique record ID for the recommended movie |
